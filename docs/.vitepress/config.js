@@ -4,7 +4,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Blog', link: '/blog' },
-      // { text: 'Talks', link: '/talks' },
+      { text: 'Talks', link: '/talks' },
       { text: 'Projects', link: 'https://www.mywaste.info' }
     ],
   },
